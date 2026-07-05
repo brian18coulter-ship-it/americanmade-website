@@ -32,7 +32,7 @@ export default function Contact() {
           <input
             type="hidden"
             name="_next"
-            value="http://localhost:3000/thank-you"
+            value="https://americanmade.works/thank-you"
           />
           <input
             type="hidden"
