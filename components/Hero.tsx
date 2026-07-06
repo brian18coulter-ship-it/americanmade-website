@@ -13,7 +13,7 @@ export default function Hero() {
 
       <div className="absolute inset-0 bg-black/65" />
 
-      <div className="relative z-10 flex min-h-screen flex-col items-center justify-center px-6 pt-52 pb-20 text-center">
+      <div className="relative z-10 flex min-h-screen flex-col items-center justify-center px-6 pt-32 pb-20 text-center md:pt-52">
         <p className="mb-4 text-sm font-semibold uppercase tracking-[0.3em] text-red-500 md:text-lg">
           Serving St. Francois County & Surrounding Counties
         </p>
@@ -33,9 +33,7 @@ export default function Hero() {
         </div>
 
         <p className="mt-8 max-w-4xl text-lg leading-8 text-gray-200 md:text-xl md:leading-9">
-          American Made Construction designs and builds beautiful decks, patio
-          covers, home additions, and outdoor living spaces for homeowners
-          throughout St. Francois County and surrounding counties.
+          American Made Construction is a home remodeling general contractor specializing in custom decks, patio covers, and home additions. We build lasting spaces designed for your family to enjoy for years to come.
         </p>
 
         <div className="mt-12 flex justify-center">
